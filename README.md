@@ -1,4 +1,4 @@
-## Hi there, I'm Bhargavi! 👋
+# Hi there, I'm Bhargavi!👋
 
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to help businesses make informed decisions, enhance performance, and drive growth. I’m enthusiastic about transforming raw data into actionable insights that create real impact. With a strong foundation in Excel, Power BI, Tableau, SQL, and Python, I strive to blend technical skills with analytical thinking to solve business problems and deliver value-driven solutions.
 
