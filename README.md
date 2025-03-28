@@ -17,6 +17,8 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 
 ## Projects
+OptiStay Insights - Hospitality Analysis
+
 ShopEasy Customer Engagement & Conversion Analysis
 
 Pizzatown Product Insights & Sales Trends
